@@ -1,0 +1,3 @@
+[
+    { "keys": [ "ctrl+shift+o" ], "command": "code_marker_add" }
+]

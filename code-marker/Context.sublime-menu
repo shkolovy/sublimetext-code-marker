@@ -1,0 +1,22 @@
+[
+    {
+        "caption": "Code Marker",
+        "mnemonic": "f",
+        "id": "code_marker",
+        "children":
+        [
+            {
+                "command": "code_marker_add",
+                "caption": "Mark it"
+            },
+            {
+                "command": "code_marker_clear_all",
+                "caption": "Clear all"
+            }
+        ]
+    },
+    {
+        "caption": "-",
+        "id": "separator"
+    }
+]
